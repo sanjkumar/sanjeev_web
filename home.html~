@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sanjeev Kumar Personal Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-responsive.css">
+	<link rel="stylesheet" href="css/bootstrap-glyphicons.css">
+    <link rel="stylesheet" href="css/lightbox.css">
+	<link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>	
+  <body>
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-th-list"></span></a>
+				<a href="index.html" class="brand">Sanjeev Kumar</a>
+			  <div class="nav-collapse collapse">
+				<ul class="nav pull-right">
+					<li><a href="#About">About Me</a></li>
+					<li><a href="#work">Work</a></li>
+					<li><a href="#portfolio">Portfolio</a></li>
+					<li><a href="#contact">Contact Me</a></li>
+					<li><a href="resume.html">Resume</a></li>
+				</ul>
+				</div>
+			</div>
+		</div>
+    </div>
+
+	
+	    <div class="hero-unit" id="About">
+			<div class="container" >
+			<div class="row-fluid">
+		  	<div class="span5 pic" style="padding:5px;">
+				<img src="img/sanj1.jpg" class="tilt" />
+			</div>
+			<div class="span7 bio" style="padding:15px;">
+				<h1>About Me</h1>
+				<p class="lead">My name is Sanjeev Kumar, I'm a web developer and designer student.</p>
+				<p>In 2012, I graduated from National College of Ireland with a Second Class Honours Diploma in Higher Diploma in Science in Web Technologies. I'm now finishing a MSc in Web Technologies at the same College, on target for a Masters Degree with Distinction.</p>
+				<p>I'm passionate about web development, I enjoy problem solving and I love taking on new challenges. I have dedicated myself to learn technologies related to Ruby on Rails, ASP.Net, which are my chosen framework to develop the majority of my projects.</p>
+				<p>Besides my enthusiasm for technology, I like movies &amp; music and I'm also a sports lover.</p>
+
+				<p style="margin-top:30px;"><a href="#work" class="btn btn-success btn-large">Know More</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="container" id="work">
+    <div class="row-fluid">
+		<h1>Services I Offer</h1>
+			<div class="span12 ">
+			<div class="span4 well service">
+				<h4>Web Development and Design</h4>
+				<p class="services-icon"><span class="icon-globe icon-5x"></span></p>
+				<p>Tart tiramisu ice cream cotton candy pudding. Sweet topping chocolate bar tootsie roll cotton candy brownie oat cake gummi bears. </p>
+				
+			</div>
+			<div class="span4 well service">
+				<h4>Ruby &amp; Rails Framework</h4>
+				<p class="services-icon"><i class="icon-picture icon-5x"></i></p>
+				<p>Tart tiramisu ice cream cotton candy pudding. Sweet topping chocolate bar tootsie roll cotton candy brownie oat cake gummi bears. </p>
+				
+			</div>
+			<div class="span4 well service">
+				<h4>HTML5 and CSS3</h4>
+				
+				<p class="services-icon"><i class="icon-html5 icon-5x"></i></p>
+				<p>Tart tiramisu ice cream cotton candy pudding. Sweet topping chocolate bar tootsie roll cotton candy brownie oat cake gummi bears. </p>
+				
+			</div>
+			
+			</div>
+			<div class="span12 ">
+			<div class="span4 well service">
+				<h4>ASP >net and C#</h4>
+				<p class="services-icon"><span class="icon-signal icon-5x"></span></p>
+				<p>Tart tiramisu ice cream cotton candy pudding. Sweet topping chocolate bar tootsie roll cotton candy brownie oat cake gummi bears. </p>
+				
+			</div>
+			<div class="span4 well service">
+				<h4>E-Commerce</h4>
+				<p class="services-icon"><i class="icon-shopping-cart icon-5x"></i></p>
+				<p>Tart tiramisu ice cream cotton candy pudding. Sweet topping chocolate bar tootsie roll cotton candy brownie oat cake gummi bears. </p>
+				
+			</div>
+			<div class="span4 well service">
+				<h4>Professional Video</h4>
+				<p class="services-icon"><i class="icon-facetime-video icon-5x"></i></p>
+				<p>Tart tiramisu ice cream cotton candy pudding. Sweet topping chocolate bar tootsie roll cotton candy brownie oat cake gummi bears. </p>
+				
+			</div>
+			
+		</div>
+		<p style="text-align:center; margin-top:50px;"><a href="#portfolio" class="btn btn-success btn-large">Portfolio</a></p>
+	</div>
+</div>
+
+<div class="container" id="portfolio">
+
+      <div class="row-fluid">
+			<h1>Portfolio</h1>
+		<div class="span12 ">
+			<div class="span3 project">
+				<h4>Web Design</h4>
+				<a href="img/portfolio.jpg" data-lightbox="pfolio" title="Caption"><img src="img/portfolio.jpg" /></a>
+			</div>
+			<div class="span3 project">
+				<h4>WordPress</h4>
+				<a href="img/portfolio.jpg" data-lightbox="pfolio" title="Caption"><img src="img/portfolio.jpg" /></a>
+			</div>
+			<div class="span3 project">
+				<h4>HTML5</h4>
+			     <a href="img/portfolio.jpg" data-lightbox="pfolio" title="Caption"><img src="img/portfolio.jpg" /></a>
+			</div>
+				<div class="span3 project">
+				<h4>HTML5</h4>
+			     <a href="img/portfolio.jpg" data-lightbox="pfolio" title="Caption"><img src="img/portfolio.jpg" /></a>
+			</div>
+			
+			</div>
+			<div class="span12 ">
+			<div class="span3 project">
+				<h4>Web Design</h4>
+				<a href="img/portfolio.jpg" data-lightbox="pfolio" title="Caption"><img src="img/portfolio.jpg" /></a>
+			</div>
+			<div class="span3 project">
+				<h4>WordPress</h4>
+				<a href="img/portfolio.jpg" data-lightbox="pfolio" title="Caption"><img src="img/portfolio.jpg" /></a>
+			</div>
+			<div class="span3 project">
+				<h4>HTML5</h4>
+			     <a href="img/portfolio.jpg" data-lightbox="pfolio" title="Caption"><img src="img/portfolio.jpg" /></a>
+			</div>
+				<div class="span3 project">
+				<h4>HTML5</h4>
+			     <a href="img/portfolio.jpg" data-lightbox="pfolio" title="Caption"><img src="img/portfolio.jpg" /></a>
+			</div>
+			
+		</div>
+    </div>
+	<p style="text-align:center; margin-top:50px;"><a href="#contact" class="btn btn-success btn-large">Contact</a></p>
+</div>
+<div class="container" id="contact">
+    <div class="row-fluid">
+			<h1>Contact Me</h1>
+			<p>You can contact me via the form below or you can just email me at <a href="mailto:sanj.judh@gmail.com">sanj.judh@gmail.com</a>. I would love to hear from you.</p>
+			<br />
+         <div class="span12 ">
+			<div class="span8 well">
+				<div class="feedback-form">
+          
+   
+            
+            <form action="MAILTO:sanj.judh@gmail.com" method="post" enctype="text/plain">
+              <fieldset>
+                <div class="form-group form-group-fullname">
+                  <label class="control-label" for="fullname">NAME *</label>
+                  <input type="text" class="form-control input-lg" name="fullname" id="fullname" placeholder="Enter your name">
+                </div>
+                <div class="form-group form-group-email">
+                  <label class="control-label" for="email">E-MAIL *</label>
+                  <input type="text" class="form-control input-lg" name="email" id="email" placeholder="Enter your e-mail">
+                </div>
+                <div class="form-group form-group-subject">
+                  <label class="control-label" for="subject">Subject *</label>
+                  <input type="text" class="form-control input-lg" name="subject" id="subject" placeholder="What's it about? ">
+                </div>
+                <div class="form-group form-group-company">
+                  <label class="control-label" for="company">Company *</label>
+                  <input type="text" class="form-control input-lg" name="company" id="company" placeholder="Name of your Company? ">
+                </div>
+                <div class="form-group form-group-message">
+                  <label class="control-label" for="message">MESSAGE *</label>
+                  <textarea class="form-control" name="message" id="message" rows="3"></textarea>
+                </div>                
+                <button type="submit" class="btn btn-brand">Submit</button>
+              </fieldset>
+            </form>
+          
+          </div>
+
+			</div>
+			<div class="span4 well">
+			<div class="address-subsection" style="text-align:center">
+              <div class="address-icon"><i class="icon-map-marker icon-4x"></i></div>
+              <h4 class="address-title">Locate Me</h4>
+              <address>
+                Dublin, Ireland<br>
+                <!--<abbr title="Phone">P:</abbr> + 353 86 349 1444-->
+              </address>       
+                <p>You can also find me online at:</p>
+			    <div class="images">
+			      <a href="https://www.facebook.com/sanjeev.kumar.3994" alt="Profile for sanjeev Kumar on Facebook" class="top-buffer" target="_blank" title="Profile for sanjeev kumar on facebook"><img alt="Facebook" src="img/fb-icon.png" /></a>
+
+			      <a href="https://twitter.com/sanjjudh" alt="Profile for sanjeev kumar on Twitter" class="top-buffer" target="_blank" title="Profile for sanjeev kumar on Twitter"><img alt="Twitter" src="img/tw-icon.png" /></a>
+
+			      <a href="http://www.linkedin.com/in/sanjeevkumar3" alt="Profile for sanjkumar on Linkedin" class="top-buffer" target="_blank" title="Profile for sanjkumar on Linkedin"><img alt="Linkedin" src="img/in-icon.png" /></a>
+			      <p>My projects are also available in my Github:</p>
+			    <div class="large-image top-buffer">
+			      <a href="https://github.com/sanjkumar" alt="Profile for sanjkumar on Github" target="_blank" title="Profile for sanjkumar on Github"><img alt="Github" src="img/git.jpg" /></a>
+			    </div>
+   			 </div>
+   			 <br />
+				<h4>Contact Details</h4>
+				<p><strong>Email:</strong> sanj.judh@gmail.com</p>
+				<p><strong>Web:</strong> www.sanjeev.kumar.co</p>
+				<p><strong>Phone:</strong> + 353-86-349-1444</p>
+			</div>
+			</div>
+		</div>
+</div>
+</div>
+<div class="container spacer">
+    <div class="row-fluid">
+	<div class="span12 well footer" style="margin-bottom: 0px;">
+        <div class="span4">
+            <p>&copy; 2014 <a href="#">Sanjeev Kumar</a></p>
+        </div>
+        <div class="span8 text-center">
+			<a href="http://www.linkedin.com/in/sanjeevkumar3"><img src="img/in-icon.png"  class='socialmedia'/></a>     
+            <a href="https://www.facebook.com/sanjeev.kumar.3994"><img src="img/fb-icon.png"  class='socialmedia'/></a>
+            <a href="https://twitter.com/sanjjudh"><img src="img/tw-icon.png"  class='socialmedia'/></a>     
+            <a href="https://github.com/sanjkumar"><img src="img/github.jpg"  class='socialmedia'/></a>   
+            <a href="https://plus.google.com/u/0/103756009588310571976/posts"><img src="img/gp-icon.png"  class='socialmedia'/></a>     
+        </div>
+		</div>
+    </div>
+</div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script> 
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/lightbox-2.6.min.js"></script>
+<script type="text/javascript" src="js/drop.js"></script>
+
+<script>
+$('a').click(function() {
+    var elementClicked = $(this).attr("href");
+    var destination = $(elementClicked).offset().top;
+    $("html:not(:animated),body:not(:animated)").animate({ scrollTop: destination-15}, 1500 );
+    return false;
+});
+
+
+</script>
+
+  </body>
+</html>
